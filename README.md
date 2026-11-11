@@ -1,58 +1,49 @@
 # Alan Mössinger
 
-**Industrial AI | Energy & Infrastructure | Executive Strategy & Capital Allocation**
+**AI/ML & Energy Senior Leader | Electricity, Renewables & Storage | Portfolio Strategy & Capital Allocation | AI Governance**
 
-## Where Deep Industry Expertise Meets AI and Executive Leadership
+I build AI systems that turn forecasts into decisions an energy company can defend: which projects to fund, how to dispatch an asset, when to alert an operator. My background is twenty years in the energy industry, from subsurface geoscience to portfolio strategy and enterprise AI, and an M.S. in Applied Data Science (AI concentration) from the University of Michigan.
 
-I am an industrial AI executive, entrepreneur, and energy professional operating at the intersection of **three complementary disciplines: Energy & Industrial Operations, Artificial Intelligence & Data Science, and Executive Strategy & Capital Allocation.**
+Based in the United States. U.S. permanent resident; German and Brazilian citizen.
 
-With 20 years at Petrobras, and VEX Holding Founder, I have led multidisciplinary teams, data science initiatives, and portfolio decision-support activities in complex, capital-intensive energy environments. My experience combines technical depth in exploration and production with leadership in digital transformation, operational optimization, and investment decision-making.
+## Selected work
 
-### My Three Areas of Expertise
+Every project below runs on public data, ships its tests, and states its limitations.
 
-**01 | Energy & Industrial Operations**
+| Project | What it does | Result |
+|---|---|---|
+| [Capstone: Beyond Prediction](https://github.com/alanmossinger/Capstone) | Risk-aware capital allocation across oil, gas, power, renewables and storage: survival models for interconnection queues, 2,000 joint price scenarios, a mixed-integer optimizer on expected NPV minus worst-5% loss, and a governed language-model challenger. University of Michigan capstone. | On a $3.82B budget and 40 candidates, the risk-aware book beats NPV ranking by $219M on held-out scenarios (modeled, 95% interval +$13M to +$401M). |
+| [forecast-to-dispatch](https://github.com/alanmossinger/forecast-to-dispatch) | Probabilistic ERCOT price forecasting and dispatch of a 100 MW / 200 MWh battery, settled at realized prices. | 86.1% of perfect-foresight revenue over 57 out-of-sample days. |
+| [netload-forecasting-flexibility](https://github.com/alanmossinger/netload-forecasting-flexibility) | Hourly net-load forecasts, 1 to 72 hours ahead, for six U.S. balancing authorities, with calibrated uncertainty bands for reserve sizing. Team project. | Day-ahead error 30.1% lower than the EIA benchmark on held-out 2024 data; 90% band covers 88.7% of hours. |
+| [ai-enablement-proof](https://github.com/alanmossinger/ai-enablement-proof) | A governed agent that monitors U.S. grid stress and drafts operator advisories, with every action passing a coded governance gate. | Alert 11.9 hours before ERCOT's EEA3 in Winter Storm Uri and 9.5 hours before PJM's alert in Elliott; false-alarm rate published. |
+| [cmapss-rul-governance](https://github.com/alanmossinger/cmapss-rul-governance) | Remaining-useful-life prediction on NASA C-MAPSS with drift monitoring, rollback and human override. | Governance mapped to NIST AI RMF 1.0 and the EU AI Act, enforced in CI. |
 
-Two decades of experience in the energy industry, including exploration and production, portfolio management, operational risk, energy economics, grid flexibility, and asset optimization. I understand how industrial systems operate, where economic value is created, and how uncertainty affects critical decisions.
+## How I work
 
-**02 | Artificial Intelligence, Machine Learning & Data Science**
+- **Decision first.** A model is judged by the decision it improves, in dollars and risk, not by its accuracy alone.
+- **Held-out evidence.** Results are scored on data the model never saw, against the strongest simple baseline I can build.
+- **Governance in code.** Limits, approvals and audit trails are tests that block a release, not slides.
+- **Limits stated.** Each project says what it does not show.
 
-Applying predictive and prescriptive analytics, machine learning, optimization, and generative AI to industrial and enterprise challenges. My focus is on moving beyond model accuracy toward operational decision systems with explainability, monitoring, human oversight, and governance built into their architecture.
+## Background
 
-**03 | Executive Leadership, Business Strategy & Capital Allocation**
+- **Energy.** Twenty years at Petrobras across geoscience, petrophysics, reservoir studies, portfolio management, energy transition and enterprise AI.
+- **AI and data science.** Forecasting, survival analysis, optimization under uncertainty, generative AI with human oversight.
+- **Strategy.** Capital allocation, risk management and leading multidisciplinary teams in capital-intensive businesses.
 
-Combining corporate leadership and entrepreneurial experience to connect technology investments with enterprise strategy, risk-adjusted returns, and measurable outcomes. I focus on how AI can help organizations allocate capital more effectively, improve productivity, manage uncertainty, and build sustainable competitive advantages.
+## Education
 
-### From Algorithms to Enterprise Decisions
+- M.S. Applied Data Science, AI concentration, University of Michigan (2026)
+- M.Sc. Reservoir Geoscience and Engineering, IFP School, France
+- Executive MBA in Strategy, COPPEAD / UFRJ
+- Executive Program in General Management (EPGM), MIT Sloan School of Management
+- General Management Program (GMP), Harvard Business School
+- Renewable Energy and Emerging Technologies, Stanford University
+- Data Engineering Certificate, MIT
+- B.S. Geology, UFPR
 
-**My differentiator is the ability to connect all three disciplines — understanding the industrial problem, designing the AI solution, and evaluating its economic and strategic consequences.**
+## Writing and contact
 
-I approach AI not simply as a technology capability, but as an instrument for better risk management, capital allocation, and operational performance.
+I write on AI, energy and executive decision-making on [Medium](https://medium.com/@alanmossinger).
 
-This GitHub portfolio presents reproducible research, engineering implementations, and decision-oriented AI systems spanning energy forecasting, prescriptive optimization, predictive maintenance, and AI governance.
-
-**My objective: turn AI capabilities into economically sound, operationally reliable, and accountable enterprise decisions.**
-
-
-Education
-
-M.S. Applied Data Science : AI Concentration — University of Michigan School of Information, USA
-M.Sc. Reservoir Engineering — IFP School, France
-Executive MBA (Strategy) — COPPEAD / UFRJ
-Executive Program in General Management (EPGM) — MIT Sloan School of Management
-Advanced Management Program (AMP) — Harvard Business School
-Energy Innovation & Emerging Technologies — Stanford University
-MIT Data Engineering Certificate
-Post-Graduation in Petroleum Geology
-B.S. in Geology
-
-
-Writing
-I write regularly on AI, Executive playbooks, energy transition, and industrial transformation — Medium and LinkedIn.
-
-Contact
-Based in the United States; working across North America, Europe, the Middle East, Latin America, and Asia. German and Brazilian citizen, U.S. permanent resident.
-LinkedIn  https://www.linkedin.com/in/alan-m%C3%B6ssinger/
-VEX AI-Tech https://vexaitech.com/
-GitHub https://github.com/alanmossinger
-Medium https://medium.com/@alanmossinger
-alan.mossinger@vexholding.com
+[LinkedIn](https://www.linkedin.com/in/alan-m%C3%B6ssinger/) · [vexaitech.com](https://vexaitech.com/) · alan.mossinger@vexholding.com
