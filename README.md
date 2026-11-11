@@ -1,6 +1,6 @@
 # Alan Mössinger
 
-**AI/ML & Energy Senior Leader | E&P, Electricity, Renewables & Storage | Portfolio Strategy & Capital Allocation | AI Governance**
+**AI/ML & Energy | Geoscientist Senior Leader | E&P, Electricity, Renewables & Storage | Portfolio Strategy & Capital Allocation | AI Governance**
 
 I build AI systems that turn forecasts into decisions an energy company can defend: which projects to fund, how to dispatch an asset, when to alert an operator. My background is twenty years in the energy industry, from subsurface geoscience to portfolio strategy and enterprise AI, and an M.S. in Applied Data Science (AI concentration) from the University of Michigan.
 
